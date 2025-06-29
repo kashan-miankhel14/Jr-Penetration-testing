@@ -24,6 +24,22 @@ Defensive security focuses on protecting an organization's assets from threats. 
 
 Purple teaming is a collaborative approach where red and blue teams work together to improve an organization's security posture. The red team shares its attack techniques with the blue team, and the blue team provides feedback on its detection and response capabilities. This continuous feedback loop helps to improve the overall security of the organization.
 
+## Common Cyber Attacks
+
+- **Phishing:** Fraudulent attempts to obtain sensitive information by disguising as a trustworthy entity
+- **Malware:** Malicious software including viruses, worms, trojans, ransomware
+- **DDoS:** Distributed Denial of Service attacks overwhelm systems with traffic
+- **Man-in-the-Middle:** Attackers intercept and potentially alter communications
+- **SQL Injection:** Exploiting vulnerabilities in database queries
+
+## Key Security Tools
+
+- **Nmap:** Network scanning and enumeration
+- **Wireshark:** Network protocol analysis
+- **Metasploit:** Penetration testing framework
+- **Burp Suite:** Web application security testing
+- **Kali Linux:** Security-focused Linux distribution
+
 ## Careers in Cyber Security
 
 There are many different career paths available in cyber security, including:
@@ -33,3 +49,14 @@ There are many different career paths available in cyber security, including:
 - **Security Engineer:** Responsible for designing, implementing, and maintaining security systems.
 - **Security Consultant:** Provides expert advice to organizations on how to improve their security posture.
 - **Digital Forensics Investigator:** Responsible for collecting and analyzing digital evidence to investigate cybercrimes.
+
+## Hands-on Exercises
+
+1. Install Kali Linux in a virtual machine
+2. Perform a basic network scan with Nmap
+3. Analyze network traffic with Wireshark
+4. Set up a basic firewall rule
+
+## Learning Resources
+
+- [TryHackMe Cyber Security Path](https://tryhackme.com/paths)
